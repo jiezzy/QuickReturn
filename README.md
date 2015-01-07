@@ -107,11 +107,8 @@ public class QuickReturnHeaderListFragment3 extends ListFragment {
 
 Download the app by clicking on the badge below.
 
-<a href="https://play.google.com/store/apps/details?id=com.etiennelawlor.quickreturn">
-  <img alt="Get it on Google Play" src="/images/en_generic_rgb_wo_60.png" />
-</a>
 
-<img src="https://raw.githubusercontent.com/lawloretienne/QuickReturn/master/images/quick_return_demo.gif">
+
 
 Developed By
 ============
